@@ -5,3 +5,9 @@ def login(request):
         print("正确")
     else:
         print("用户名错误“）
+
+
+                
+def regist(request):
+    pass
+
