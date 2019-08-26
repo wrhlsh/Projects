@@ -9,5 +9,5 @@ def login(request):
 
                 
 def regist(request):
-    pass
+    this is two
 
