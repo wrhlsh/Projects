@@ -1,4 +1,7 @@
 def login(request):
     name = name
     password = password
-    pass
+    if name = name:
+        print("正确")
+    else:
+        print("用户名错误“）
